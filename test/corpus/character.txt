@@ -1,0 +1,30 @@
+================================================================================
+Character
+================================================================================
+
+\a
+\b
+\z
+\newline
+\space
+\tab
+\formfeed
+\backspace
+\return
+\u1234
+\o123
+
+--------------------------------------------------------------------------------
+
+(source
+  (character)
+  (character)
+  (character)
+  (character)
+  (character)
+  (character)
+  (character)
+  (character)
+  (character)
+  (character)
+  (character))
