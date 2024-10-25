@@ -14,7 +14,7 @@ const interpose = (term, separator) => seq(
 /// <reference types="tree-sitter-cli/dsl" />
 // @ts-check
 module.exports = grammar({
-  name: "clojure",
+  name: "conao3_clojure",
   extras: $ => [
     /\s/,
     ',',  // comma is ignoreed in Clojure
